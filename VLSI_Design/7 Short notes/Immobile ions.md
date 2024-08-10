@@ -1,0 +1,1 @@
+When an impurity is added to the intrinsic silicon, the acceptor/donor atom either takes an electron or gives an electron to the Si lattice. Then this acceptor or donor atom becomes an Immobile ion.
