@@ -6,6 +6,8 @@
 	3. [[Short-Channel MOS Device]]
 	4. [[Velocity Saturation]]
 	5. [[Drain Induced Barrier Lowering (DIBL)]]
+	6. [[Sub-Threshold Leakage]]
+	7. 
 
 2. Metastability
 	1. [[Metastability]]

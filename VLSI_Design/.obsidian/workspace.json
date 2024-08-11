@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Indexes/Digital IC Design.md",
+                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md"
+                "file": "6_Main_Notes/Sub-Threshold Leakage.md"
               }
             }
           }
@@ -175,29 +176,32 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "15bcbd5a1ea83977",
+  "active": "5869e89c61e5ca8f",
   "lastOpenFiles": [
-    "Pasted image 20240809163530.png",
-    "Pasted image 20240809163357.png",
-    "Pasted image 20240809163112.png",
-    "6_Main_Notes/MOS Transistor.md",
     "4_Indexes/Digital IC Design.md",
-    "6_Main_Notes/Short-Channel MOS Device.md",
+    "6_Main_Notes/MOS Transistor.md",
+    "Excalidraw/Drawing 2024-07-12 13.43.17.excalidraw.md",
+    "Untitled.canvas",
+    "Photos/Pasted image 20240712162636.png",
+    "6_Main_Notes/Sub-Threshold Leakage.md",
+    "Photos",
     "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+    "Photos/Pasted image 20240809163530.png",
+    "Photos/Pasted image 20240809163357.png",
+    "Photos/Pasted image 20240809163112.png",
+    "6_Main_Notes/Short-Channel MOS Device.md",
     "6_Main_Notes/Velocity Saturation.md",
     "4_Indexes/2024 Paper doubts.md",
     "6_Main_Notes/Setup Time and Hold Time.md",
     "6_Main_Notes/MOS Cap.md",
     "6_Main_Notes/Metastability.md",
     "6_Main_Notes/Clock Domain Crossing (CDC).md",
-    "Pasted image 20240806013801.png",
-    "Pasted image 20240806005951.png",
-    "Pasted image 20240806005937.png",
-    "Pasted image 20240806005923.png",
-    "Pasted image 20240806005922.png",
-    "Pasted image 20240805165719.png",
-    "Pasted image 20240805161206.png",
-    "Pasted image 20240805143943.png",
+    "Photos/Pasted image 20240806013801.png",
+    "Photos/Pasted image 20240806005951.png",
+    "Photos/Pasted image 20240806005937.png",
+    "Photos/Pasted image 20240806005923.png",
+    "Photos/Pasted image 20240806005922.png",
+    "Photos/Pasted image 20240805165719.png",
     "6_Main_Notes/Synchronizers.md",
     "6_Main_Notes/Race Condition.md",
     "Excalidraw/Setup Time and Hold Time 2024-08-03 19.24.16.excalidraw.md",
@@ -205,7 +209,6 @@
     "Excalidraw/Setup Time and Hold Time 2024-08-03 19.08.48.excalidraw.md",
     "Excalidraw/Drawing 2024-08-02 18.03.59.excalidraw.md",
     "Excalidraw/Synchronizers 2024-08-03 13.07.24.excalidraw.md",
-    "Untitled.canvas",
     "8 Personal/Sickle Cell Trait.md",
     "6_Main_Notes/Pasted.md",
     "Excalidraw/Drawing 2024-08-02 18.26.44.excalidraw.md",
@@ -213,8 +216,6 @@
     "Excalidraw/Drawing 2024-08-02 01.18.53.excalidraw.md",
     "Excalidraw/Drawing 2024-08-01 22.51.13.excalidraw.md",
     "Excalidraw/Drawing 2024-08-02 02.07.48.excalidraw.md",
-    "6_Main_Notes/Branch History Predictor.md",
-    "Untitled",
     "8 Personal",
     "7 Short notes"
   ]
