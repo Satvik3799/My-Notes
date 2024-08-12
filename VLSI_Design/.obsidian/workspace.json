@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "428dc80ade300789",
+        "id": "5a6caf63c21fac04",
         "type": "tabs",
         "children": [
           {
-            "id": "15bcbd5a1ea83977",
+            "id": "5385c969817cb583",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5869e89c61e5ca8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c71b353b33f6153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_Main_Notes/MOS Transistor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6_Main_Notes/Sub-Threshold Leakage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,16 +143,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5869e89c61e5ca8f",
+  "active": "5385c969817cb583",
   "lastOpenFiles": [
-    "4_Indexes/Digital IC Design.md",
     "6_Main_Notes/MOS Transistor.md",
+    "6_Main_Notes/Setting up the AJIT environment on Kintex.md",
+    "4_Indexes/MTP.md",
+    "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+    "6_Main_Notes/Sub-Threshold Leakage.md",
+    "4_Indexes/Digital IC Design.md",
     "Excalidraw/Drawing 2024-07-12 13.43.17.excalidraw.md",
     "Untitled.canvas",
     "Photos/Pasted image 20240712162636.png",
-    "6_Main_Notes/Sub-Threshold Leakage.md",
     "Photos",
-    "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
     "Photos/Pasted image 20240809163530.png",
     "Photos/Pasted image 20240809163357.png",
     "Photos/Pasted image 20240809163112.png",
@@ -214,8 +183,6 @@
     "Excalidraw/Drawing 2024-08-02 18.26.44.excalidraw.md",
     "6_Main_Notes/Untitled.md",
     "Excalidraw/Drawing 2024-08-02 01.18.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-01 22.51.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-02 02.07.48.excalidraw.md",
     "8 Personal",
     "7 Short notes"
   ]
