@@ -7,7 +7,8 @@
 	4. [[Velocity Saturation]]
 	5. [[Drain Induced Barrier Lowering (DIBL)]]
 	6. [[Sub-Threshold Leakage]]
-	7. 
+	7. [[Bipolar Junction Transistor (BJT)]]
+	8. [[Substate and Gate Leakage]]
 
 2. Metastability
 	1. [[Metastability]]

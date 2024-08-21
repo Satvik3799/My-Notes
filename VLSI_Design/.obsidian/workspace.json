@@ -11,11 +11,48 @@
             "id": "5385c969817cb583",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e4cf3b8ad68717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6_Main_Notes/Substate and Gate Leakage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5808f8c38b91816a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Substate and Gate Leakage 2024-08-21 18.22.24.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2d4d78dac603e441",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Substate and Gate Leakage 2024-08-21 16.45.19.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#formula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6_Main_Notes/Substate and Gate Leakage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6_Main_Notes/Substate and Gate Leakage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6_Main_Notes/Substate and Gate Leakage.md"
+              }
             }
           }
         ]
@@ -143,46 +184,46 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5385c969817cb583",
+  "active": "73e4cf3b8ad68717",
   "lastOpenFiles": [
-    "6_Main_Notes/MOS Transistor.md",
-    "6_Main_Notes/Setting up the AJIT environment on Kintex.md",
-    "4_Indexes/MTP.md",
-    "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+    "Excalidraw/Substate and Gate Leakage 2024-08-21 18.22.24.excalidraw.md",
+    "Pasted Image 20240821182239_949.png",
+    "6_Main_Notes/Substate and Gate Leakage.md",
+    "Pasted image 20240821182214.png",
+    "Excalidraw/Substate and Gate Leakage 2024-08-21 16.45.19.excalidraw.md",
     "6_Main_Notes/Sub-Threshold Leakage.md",
     "4_Indexes/Digital IC Design.md",
+    "6_Main_Notes/MOS Transistor.md",
+    "Pasted Image 20240821164534_888.png",
+    "Photos/Pasted image 20240821142842.png",
+    "Photos/Pasted image 20240821142744.png",
+    "Pasted image 20240821142704.png",
+    "6_Main_Notes/Question - How many links will change in order to delete a node in a circular linked list.md",
+    "4_Indexes/2024 Paper doubts & Good questions.md",
+    "6_Main_Notes/nvidia_basic.md",
+    "nvidia_basic.pdf",
+    "6_Main_Notes/Job Schedular.md",
+    "6_Main_Notes/Untitled 1.md",
+    "Photos/Pasted image 20240820184519.png",
+    "6_Main_Notes/Bipolar Junction Transistor (BJT).md",
+    "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+    "Excalidraw/Drawing 2024-08-13 21.47.24.excalidraw.md",
+    "6_Main_Notes/Setting up the AJIT environment on Kintex.md",
+    "4_Indexes/MTP.md",
     "Excalidraw/Drawing 2024-07-12 13.43.17.excalidraw.md",
     "Untitled.canvas",
     "Photos/Pasted image 20240712162636.png",
     "Photos",
     "Photos/Pasted image 20240809163530.png",
     "Photos/Pasted image 20240809163357.png",
-    "Photos/Pasted image 20240809163112.png",
     "6_Main_Notes/Short-Channel MOS Device.md",
     "6_Main_Notes/Velocity Saturation.md",
-    "4_Indexes/2024 Paper doubts.md",
     "6_Main_Notes/Setup Time and Hold Time.md",
     "6_Main_Notes/MOS Cap.md",
     "6_Main_Notes/Metastability.md",
     "6_Main_Notes/Clock Domain Crossing (CDC).md",
-    "Photos/Pasted image 20240806013801.png",
-    "Photos/Pasted image 20240806005951.png",
-    "Photos/Pasted image 20240806005937.png",
-    "Photos/Pasted image 20240806005923.png",
-    "Photos/Pasted image 20240806005922.png",
-    "Photos/Pasted image 20240805165719.png",
     "6_Main_Notes/Synchronizers.md",
     "6_Main_Notes/Race Condition.md",
-    "Excalidraw/Setup Time and Hold Time 2024-08-03 19.24.16.excalidraw.md",
-    "Excalidraw/Setup Time and Hold Time 2024-08-03 19.30.51.excalidraw.md",
-    "Excalidraw/Setup Time and Hold Time 2024-08-03 19.08.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-02 18.03.59.excalidraw.md",
-    "Excalidraw/Synchronizers 2024-08-03 13.07.24.excalidraw.md",
-    "8 Personal/Sickle Cell Trait.md",
-    "6_Main_Notes/Pasted.md",
-    "Excalidraw/Drawing 2024-08-02 18.26.44.excalidraw.md",
-    "6_Main_Notes/Untitled.md",
-    "Excalidraw/Drawing 2024-08-02 01.18.53.excalidraw.md",
     "8 Personal",
     "7 Short notes"
   ]
