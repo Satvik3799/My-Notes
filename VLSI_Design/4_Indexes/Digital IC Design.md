@@ -9,6 +9,10 @@
 	6. [[Sub-Threshold Leakage]]
 	7. [[Bipolar Junction Transistor (BJT)]]
 	8. [[Substate and Gate Leakage]]
+	9. [[PMOS]]
+	10. [[Transistor Capacitances]]
+	11. [[Inverter]]
+		1. [[Load-Line analysis]]
 
 2. Metastability
 	1. [[Metastability]]

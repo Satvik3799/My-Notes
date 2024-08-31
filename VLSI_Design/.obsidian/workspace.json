@@ -4,50 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "5a6caf63c21fac04",
+        "id": "b61aac8ee607ccf6",
         "type": "tabs",
         "children": [
           {
-            "id": "5385c969817cb583",
+            "id": "8fd599c4366749d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Main_Notes/Sub-Threshold Leakage.md",
+                "file": "4_Indexes/Digital IC Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73e4cf3b8ad68717",
+            "id": "212a1e3d7ed4b98a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Main_Notes/Substate and Gate Leakage.md",
+                "file": "6_Main_Notes/Load-Line analysis.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5808f8c38b91816a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Substate and Gate Leakage 2024-08-21 18.22.24.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2d4d78dac603e441",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Substate and Gate Leakage 2024-08-21 16.45.19.excalidraw.md"
               }
             }
           }
@@ -81,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#formula",
+                "query": "#formula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Main_Notes/Substate and Gate Leakage.md",
+                "file": "6_Main_Notes/Load-Line analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Main_Notes/Substate and Gate Leakage.md",
+                "file": "6_Main_Notes/Load-Line analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Main_Notes/Substate and Gate Leakage.md"
+                "file": "6_Main_Notes/Load-Line analysis.md"
               }
             }
           }
@@ -184,46 +164,50 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "73e4cf3b8ad68717",
+  "active": "212a1e3d7ed4b98a",
   "lastOpenFiles": [
-    "Excalidraw/Substate and Gate Leakage 2024-08-21 18.22.24.excalidraw.md",
-    "Pasted Image 20240821182239_949.png",
-    "6_Main_Notes/Substate and Gate Leakage.md",
-    "Pasted image 20240821182214.png",
-    "Excalidraw/Substate and Gate Leakage 2024-08-21 16.45.19.excalidraw.md",
-    "6_Main_Notes/Sub-Threshold Leakage.md",
     "4_Indexes/Digital IC Design.md",
-    "6_Main_Notes/MOS Transistor.md",
-    "Pasted Image 20240821164534_888.png",
-    "Photos/Pasted image 20240821142842.png",
-    "Photos/Pasted image 20240821142744.png",
-    "Pasted image 20240821142704.png",
-    "6_Main_Notes/Question - How many links will change in order to delete a node in a circular linked list.md",
-    "4_Indexes/2024 Paper doubts & Good questions.md",
-    "6_Main_Notes/nvidia_basic.md",
-    "nvidia_basic.pdf",
-    "6_Main_Notes/Job Schedular.md",
-    "6_Main_Notes/Untitled 1.md",
-    "Photos/Pasted image 20240820184519.png",
-    "6_Main_Notes/Bipolar Junction Transistor (BJT).md",
-    "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
-    "Excalidraw/Drawing 2024-08-13 21.47.24.excalidraw.md",
-    "6_Main_Notes/Setting up the AJIT environment on Kintex.md",
-    "4_Indexes/MTP.md",
-    "Excalidraw/Drawing 2024-07-12 13.43.17.excalidraw.md",
-    "Untitled.canvas",
-    "Photos/Pasted image 20240712162636.png",
-    "Photos",
-    "Photos/Pasted image 20240809163530.png",
-    "Photos/Pasted image 20240809163357.png",
-    "6_Main_Notes/Short-Channel MOS Device.md",
-    "6_Main_Notes/Velocity Saturation.md",
-    "6_Main_Notes/Setup Time and Hold Time.md",
+    "6_Main_Notes/Load-Line analysis.md",
+    "6_Main_Notes/Inverter.md",
     "6_Main_Notes/MOS Cap.md",
-    "6_Main_Notes/Metastability.md",
+    "4_Indexes/2024 Paper doubts & Good questions.md",
+    "6_Main_Notes/MOS Transistor.md",
+    "6_Main_Notes/Microchip_BITS_2024.md",
+    "Pasted image 20240827113854.png",
+    "Pasted image 20240827105956.png",
+    "Pasted image 20240827105620.png",
+    "Pasted image 20240826154950.png",
+    "6_Main_Notes/Western Digital_dtu.md",
+    "Pasted image 20240821182214.png",
+    "6_Main_Notes/Samsung (1).md",
+    "Excalidraw/Setup Time and Hold Time 2024-08-03 19.08.48.excalidraw.md",
+    "6_Main_Notes/Untitled.md",
+    "6_Main_Notes/Architectural Synthesis.md",
     "6_Main_Notes/Clock Domain Crossing (CDC).md",
+    "6_Main_Notes/Metastability.md",
+    "6_Main_Notes/Job Schedular.md",
+    "6_Main_Notes/Transistor Capacitances.md",
     "6_Main_Notes/Synchronizers.md",
-    "6_Main_Notes/Race Condition.md",
+    "4_Indexes/MTP.md",
+    "6_Main_Notes/PMOS.md",
+    "5_Templates/New equation.md",
+    "6_Main_Notes/Sequencing graph.md",
+    "6_Main_Notes/EE 677 Foundations of VLSI CAD.md",
+    "Pasted image 20240825185250.png",
+    "Pasted image 20240825185208.png",
+    "Pasted image 20240825184750.png",
+    "Pasted image 20240825184735.png",
+    "Pasted image 20240825183854.png",
+    "Untitled",
+    "5_Templates/Index.md",
+    "Excalidraw/Transistor Capacitances 2024-08-24 00.38.43.excalidraw.md",
+    "6_Main_Notes/nvidia_basic.md",
+    "6_Main_Notes/Velocity Saturation.md",
+    "Excalidraw/~syncthing~PMOS 2024-08-22 19.54.21.excalidraw.md.tmp",
+    "6_Main_Notes/~syncthing~PMOS.md.tmp",
+    "nvidia_basic.pdf",
+    "Untitled.canvas",
+    "Photos",
     "8 Personal",
     "7 Short notes"
   ]

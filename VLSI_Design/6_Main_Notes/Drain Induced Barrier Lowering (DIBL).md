@@ -28,7 +28,7 @@ Now the threshold voltage becomes:
 
 $$
 \begin{align}
-& V_{TH}=V_{THO}+\gamma (\sqrt{V_{SB}+\psi_{s}} - \sqrt{|\psi_{s}|}) - \eta V_{DS}\\
+& V_{TH}=V_{THO}+\gamma (\sqrt{|V_{SB}+\psi_{s}|} - \sqrt{|\psi_{s}|}) - \eta V_{DS}\\
 \end{align}
 $$
 As $V_{DS}$ increases, the Threshold voltage reduces; hence the negative sign.

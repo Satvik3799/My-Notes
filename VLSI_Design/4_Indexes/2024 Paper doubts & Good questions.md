@@ -14,8 +14,12 @@
 2. nvidia_basic
 	1. [[nvidia_basic]]
 
-
-
+3. Samsung
+	1. [[Samsung (1)]]
+4. Western Digital
+	1. [[Western Digital_dtu]]
+5. Microchip
+	1. [[Microchip_BITS_2024]]
 ## ❓ Questions
 - 1. Programming Qualcomm
 		4 - x86
