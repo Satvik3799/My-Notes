@@ -20,6 +20,8 @@
 	1. [[Western Digital_dtu]]
 5. Microchip
 	1. [[Microchip_BITS_2024]]
+6. Micron
+	1. [[Micron_BPHC_Tech_2023]]
 ## ❓ Questions
 - 1. Programming Qualcomm
 		4 - x86

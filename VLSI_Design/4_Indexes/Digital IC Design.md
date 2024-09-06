@@ -12,7 +12,7 @@
 	9. [[PMOS]]
 	10. [[Transistor Capacitances]]
 	11. [[Inverter]]
-		1. [[Load-Line analysis]]
+		1. [[Trip Point]]
 
 2. Metastability
 	1. [[Metastability]]
