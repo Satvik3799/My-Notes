@@ -13,6 +13,8 @@
 	10. [[Transistor Capacitances]]
 	11. [[Inverter]]
 		1. [[Trip Point]]
+	12. [[Elmore Delay Model]]
+	13. [[Misc - Digital IC]]
 
 2. Metastability
 	1. [[Metastability]]

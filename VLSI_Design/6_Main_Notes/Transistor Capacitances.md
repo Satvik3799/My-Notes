@@ -41,7 +41,7 @@ $$
 **For Digital Design POV, this would be considered $C_{G}=C_{ox}WL$**
 Otherwise, 
 Saturation: $C_{GS}$ will be more than the $C_{GD}$ and $C_{GB}$. 
-Linear: $C_{GD}$ will be more than the the $C_{GD}$ and $C_{GB}$. 
+Linear: $C_{GD}$ will be more than the the $C_{GS}$ and $C_{GB}$. 
 
 When Annealing is done, in order to reduce the defects. The Silicon Wafer is heated to high temperatures. The atoms spread due to the heat and the $N^+$ regions expand. So the channel length reduces.
 ![[Pasted image 20240824004802.png]]

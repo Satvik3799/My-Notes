@@ -22,6 +22,9 @@
 	1. [[Microchip_BITS_2024]]
 6. Micron
 	1. [[Micron_BPHC_Tech_2023]]
+7. TI
+	1. [[TI_IIITH]]
+8. 
 ## ❓ Questions
 - 1. Programming Qualcomm
 		4 - x86

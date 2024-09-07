@@ -13,8 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Main_Notes/MOS Cap.md",
-                "mode": "preview",
+                "file": "6_Main_Notes/Elmore Delay Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2864294c7c51a42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6_Main_Notes/Misc - Digital IC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e9fc50fd089a65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Indexes/2024 Paper doubts & Good questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b54e118e97217df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6_Main_Notes/TI_IIITH.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "92625a1b487d8841",
@@ -86,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Main_Notes/MOS Cap.md",
+                "file": "6_Main_Notes/Elmore Delay Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Main_Notes/MOS Cap.md",
+                "file": "6_Main_Notes/Elmore Delay Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Main_Notes/MOS Cap.md"
+                "file": "6_Main_Notes/Elmore Delay Model.md"
               }
             }
           }
@@ -155,20 +190,30 @@
   },
   "active": "de08050a752eeecc",
   "lastOpenFiles": [
+    "4_Indexes/Digital IC Design.md",
+    "Photos/Pasted image 20240907161723.png",
+    "Logic_family.pdf",
+    "6_Main_Notes/Elmore Delay Model.md",
+    "Photos/Pasted image 20240908005047.png",
+    "Photos/Pasted image 20240908005042.png",
+    "6_Main_Notes/Trip Point.md",
+    "6_Main_Notes/Misc - Digital IC.md",
+    "6_Main_Notes/TI_IIITH.md",
+    "4_Indexes/2024 Paper doubts & Good questions.md",
+    "Photos/Pasted image 20240907162956.png",
+    "6_Main_Notes/Inverter.md",
+    "6_Main_Notes/Transistor Capacitances.md",
+    "6_Main_Notes/Substate and Gate Leakage.md",
+    "6_Main_Notes/Drain Induced Barrier Lowering (DIBL).md",
+    "6_Main_Notes/Velocity Saturation.md",
+    "6_Main_Notes/Short-Channel MOS Device.md",
     "6_Main_Notes/MOS Transistor.md",
     "6_Main_Notes/MOS Cap.md",
-    "4_Indexes/Digital IC Design.md",
     "4_Indexes/MTP.md",
     "6_Main_Notes/AJIT IITG.md",
-    "4_Indexes/2024 Paper doubts & Good questions.md",
     "6_Main_Notes/Job Schedular.md",
-    "Logic_family.pdf",
     "6_Main_Notes/Micron_BPHC_Tech_2023.md",
-    "6_Main_Notes/Trip Point.md",
-    "6_Main_Notes/Velocity Saturation.md",
     "Photos/Pasted Image 20240821164534_888.png",
-    "6_Main_Notes/Short-Channel MOS Device.md",
-    "6_Main_Notes/Inverter.md",
     "6_Main_Notes/Microchip_BITS_2024.md",
     "Photos/Pasted image 20240827113854.png",
     "Pasted image 20240827105956.png",
@@ -181,17 +226,6 @@
     "6_Main_Notes/Untitled.md",
     "6_Main_Notes/Architectural Synthesis.md",
     "6_Main_Notes/Clock Domain Crossing (CDC).md",
-    "6_Main_Notes/Metastability.md",
-    "6_Main_Notes/Transistor Capacitances.md",
-    "6_Main_Notes/Synchronizers.md",
-    "6_Main_Notes/PMOS.md",
-    "5_Templates/New equation.md",
-    "6_Main_Notes/Sequencing graph.md",
-    "6_Main_Notes/EE 677 Foundations of VLSI CAD.md",
-    "Photos/Pasted image 20240825185250.png",
-    "Photos/Pasted image 20240825185208.png",
-    "Photos/Pasted image 20240825184750.png",
-    "Photos/Pasted image 20240825184735.png",
     "Untitled",
     "Excalidraw/~syncthing~PMOS 2024-08-22 19.54.21.excalidraw.md.tmp",
     "6_Main_Notes/~syncthing~PMOS.md.tmp",
