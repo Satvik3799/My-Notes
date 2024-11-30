@@ -19,7 +19,7 @@ We use a bottom-up approach for this concept. From Cross-coupled SR latch (Can b
 
 A single D latch or transparent latch is ![[Pasted image 20240802162152.png]]
 
-The D input avoids[[Race Condition]] because at the other input to the SR latch will always be inverse of the first. 
+The D input avoids [[Race Condition]] because at the other input to the SR latch will always be inverse of the first. 
 
 ### Propagation Delay
 
@@ -36,6 +36,7 @@ $$
 
 ![[Pasted image 20240802162146.png]]
 
+#Doubt What would happen if latch sets with in worst case setup?
 
 As long as the clock is high, the input at D will get reflected at Q, i.e. Being transparent as long as clock is high. 
 As long as clock becomes high, the latch will set according to its first input after $t_a$ time.
@@ -123,7 +124,7 @@ Clock skew is the difference in arrival time of a clock signal at different FFs.
 Consider FFs R1 (Launch FF) and R3 (Capture FF), R1 gets the clock before R3. The data path between them is called the Min path. Launch FF gets CLK before Capture FF.
 Consider FFs R6 (Launch FF) and R2 (Capture FF), R2 gets the clock before R6. The data path between them is called the Max path. Launch FF gets CLK after Capture FF.
 
-## Min path consideration
+## Max path consideration
 
 ![[Pasted image 20240803192300.png]]
 ![[Setup Time and Hold Time 2024-08-03 19.24.16.excalidraw]]

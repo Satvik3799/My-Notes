@@ -1,0 +1,2 @@
+
+The Pynq board allows me to test my modules easily. I can use the Zynq processor along with the FPGA fabric, where I can dump my bitstream for the accelerator. It uses python and I can quickly check if the implementation works the way I have intended. I can also get a good performance comparision because the Zynq processor also has a Dual core ARM Cortex A9 prcoessor.

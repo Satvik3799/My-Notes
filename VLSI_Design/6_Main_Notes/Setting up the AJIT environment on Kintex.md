@@ -56,13 +56,42 @@ ajit[0.0]> q
 
 ____________________
 validation_ladder/
-ipc and impc (= ipc+4)
+ipc and inpc (= ipc+4)
 
 ______________________
-Ground black Pin 16
-Rx of USB (of USB-UART) brown 18 on FPGA
-Tx 17
+Ground Pin 16 (Blue)
+Rx of USB (of USB-UART) (green) 18 on FPGA
+Tx 17 (red)
 CP2102 USB to TTL (3.3V however recommended is 1.8V for Kintex 7 KC board)
-
+![[Pasted image 20240926125509.png]]
 
 Reset instructions??????????
+
+
+
+Micro-USB - Download bit-stream
+Mini-USB - JTAG Debugger
+
+
+
+
+r iureg 1
+i means initial value - ipc inpc - initial value of PC and NPC
+
+0x20 - Bypass address space
+(Treat the given address as a physical address)
+
+
+0 to 16MB - Flash
+16MB to - IOs
+DRAM - 
+	-t 0x4_7x0s (Where the program is stored)
+	-d 0x40010000 (Data used by the Program)
+
+
+w mem 0x20 0xffff3204 <bytes> - UART IO
+
+• FLASH memory is mapped to physical address range 0x0 to 0x3fffffff
+• SRAM is mapped to physical address range 0x40000000 to 0xfffeffff
+• Physical devices are mapped to address range 0xffff0000 to 0xffffffff
+

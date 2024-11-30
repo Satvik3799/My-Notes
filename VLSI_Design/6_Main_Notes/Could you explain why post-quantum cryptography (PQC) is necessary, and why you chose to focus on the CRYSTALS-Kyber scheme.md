@@ -1,0 +1,4 @@
+
+I chose to focus on the Crystals-Kyber scheme because it was something one of my seniors had worked on. He has designed Module, NTT, which performs polynomial multiplication in polynomial time rather than the $O(n^2)$ time complexity. He has shown some basic implementations of the module and demonstrated how the module could be used in such a Cryptographic scheme. 
+
+PQC is necessary because when the Quantum computers become available, they would break the current Cryptographic schemes. Recently one of the teams in China broke the RSA encryption scheme using Quantum computers. So probably the days are numbered now. People can store the data right now, the encrypted data, and when the Quantum computers maybe available to them, they can break the encryption. So that creates a privacy concern. The PQC field aims to resolve this issue of Store Now Decrypt Later method. 

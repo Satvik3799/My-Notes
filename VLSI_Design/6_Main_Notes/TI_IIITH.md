@@ -60,6 +60,7 @@ where ( $f_0$ ) is the resonance frequency and ( $\Delta f$ ) is the bandwidth. 
 
 
 
+pg 18. FIFO calc
 
 # References:
 

@@ -1,0 +1,1 @@
+The Hardware Software co-design method will allow me to make changes on the go as I design the Hardware Accelerator. At last, I will be able to check if there is even a need to make such an accelerator, if the Software implementation is enough or not. 
