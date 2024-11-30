@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Indexes/MTP.md",
+                "file": "4_Indexes/Operating Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MTP"
+              "title": "Operating Systems"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "d902ce860ffa051e",
   "lastOpenFiles": [
+    "4_Indexes/MTP.md",
     "4_Indexes/Interview index.md",
     "4_Indexes/Interview - The Flow.md",
     "4_Indexes/Digital IC Design.md",
@@ -192,7 +193,6 @@
     "6_Main_Notes/Instruction Dispatch and Execution.md",
     "6_Main_Notes/Instruction renaming.md",
     "Pasted image 20241129234240.png",
-    "4_Indexes/MTP.md",
     "6_Main_Notes/MTP - Number Theoretic Transform (NTT) on AJIT Processor.md",
     "6_Main_Notes/GPU with NIOS II.md",
     "6_Main_Notes/Video Card mem Compress.md",
